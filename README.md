@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Umberto
 - 👀 I’m interested in ... everything related to artificial intelligences implementation
 - 🌱 I’m currently learning ... python, bash
-- 💞️ I’m looking to collaborate on ... web and mobile app
+- 💞️ I’m looking to collaborate on ... nothing, i'm just curious
 - 📫 How to reach me ... contact me here
 - 😄 Pronouns: ... null
 - ⚡ Fun fact: ... i'm allergic to my favorite food
